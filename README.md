@@ -1,17 +1,17 @@
 # Channel List
 
-The source data is in `/channels`. Each channel has its own file with the filename being the chainId representation as name and `.json` as extension.
+The source data is in `/channels`. Each channel has its own file with the filename being the channelId representation as name and `.json` as extension.
 
 ## Example
 
-two files (`yourChainId.json` and `yourChainId.png` ) are required:
+two files (`yourChannelId.json` and `yourChannelId.png` ) are required:
 
 ```
 └── channels
     ├── info
-    │   └── yourChainId.json
+    │   └── yourChannelId.json
     └── logo
-        └── yourChainId.png
+        └── yourChannelId.png
 ```
 
 If you wish to add your Channel, please follow the Channel template :
