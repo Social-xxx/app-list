@@ -1,0 +1,12 @@
+{
+	"app_id": 1,
+	"name": "Nest",
+	"description": "Nest is the first product built by FibonacciLabs based on the Social X protocol, which is premiered on the Fibonacci chain.",
+	"website": "https://nest.fibochain.org",
+	"tag": ["Desocial"],
+	"logo": {
+		"width": 500,
+		"height": 500,
+		"format": "png"
+	}
+}
